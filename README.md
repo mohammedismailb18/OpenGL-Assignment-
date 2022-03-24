@@ -14,23 +14,23 @@
  
  - header files for freeglut3.
 
-  ```
-   sudo apt-get install freeglut3-dev
-  ```
+    ```
+    sudo apt-get install freeglut3-dev
+    ```
  
  - A linker for ELF files. Faster than GNU Linker.
 
-  ```
-   sudo apt-get install binutils-gold
-  ```
+    ```
+    sudo apt-get install binutils-gold
+    ```
  - Software tool for managing the build process of software.
-  ```
-  sudo apt-get install g++ cmake
-  ```
+    ```
+    sudo apt-get install g++ cmake
+    ```
  - For determining which OpenGL extensions are supported on the platform.
-  ```
+    ```
      sudo apt-get install libglew-dev 
-  ```
+    ```
 
 
 
