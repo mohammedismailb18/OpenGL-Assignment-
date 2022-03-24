@@ -1,8 +1,8 @@
 # OpenGL-Assignment-
 
 ## Question 1
-Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color.
-**Input** : 0.7 0.5 1.0 1.0
+Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color. <br>
+**Input** : 0.7 0.5 1.0 1.0 <br>
 **Output**
 <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q1/output.jpg" width = "500" height = "500"></p>
 
