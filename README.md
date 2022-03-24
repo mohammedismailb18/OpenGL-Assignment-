@@ -1,8 +1,8 @@
 # OpenGL-Assignment-
 
 ## Question 7
-Recreate the following figure by using only squares. The outermost square can be of any dimension, but should be entirely visible within the screen.
-Note:- Make the background white and the edges in black
+Recreate the following figure by using only squares. The outermost square can be of any dimension, but should be entirely visible within the screen.<br>
+Note:- Make the background white and the edges in black. <br>
 Hint: Identify a specific pattern that is getting repeated.
 
 <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q7/output.jpg" width = "500" height = "500"></p>
