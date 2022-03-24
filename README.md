@@ -2,6 +2,7 @@
 
 ## Installing
 - To get information on the newest version of package and their dependencies.
+
   ```
    sudo apt-get update
   ```
