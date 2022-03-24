@@ -6,6 +6,25 @@
   ```
    sudo apt-get update
   ```
+- Provides simple windowing API and I/O operations.
+
+  ```
+   sudo apt-get install freeglut3
+  ```
+ 
+ - header files for freeglut3.
+
+  ```
+   sudo apt-get install freeglut3-dev
+  ```
+ 
+ - A linker for ELF files. Faster than GNU Linker.
+
+  ```
+   sudo apt-get install binutils-gold
+  ```
+
+
 
 ## Question 1
 Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color. <br>
