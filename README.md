@@ -1,5 +1,5 @@
 # OpenGL-Assignment-
-
+This repository contains the solutions to assignment problems related to OpenGL that I have done in my Topics in Algorithm Course(CS4027D). The problems include plotting points in a plain, plotting lines in a plane, Building some geometric construction, drawing using mouse input etc. All the programs are written in C++.
 ## Installing
 - To get information on the newest version of package and their dependencies.
 
