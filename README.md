@@ -1,5 +1,19 @@
 # OpenGL-Assignment-
 
+## Installing
+```
+ sudo apt-get update // To get information on the newest version of package and their dependencies.
+ sudo apt-get install freeglut3 // Provides simple windowing API and I/O operations.
+ sudo apt-get install freeglut3-dev // header files for freeglut3.
+ sudo apt-get install binutils-gold // A linker for ELF files. Faster than GNU Linker.
+ sudo apt-get install g++ cmake //Software tool for managing the build process of software.
+ sudo apt-get install libglew-dev //For determining which OpenGL extensions are supported on the platform.
+ sudo apt-get install g++ //GNU C++ compiler.
+ sudo apt-get install mesa-common-dev //mesa is an OpenGL compatible 3D graphics library.
+ sudo apt-get install build-essential // All the packages needed to compile a debian package.
+ sudo apt-get install libglew1.5-dev libglm-dev //(glm) C++ mathematical library for graphics program.
+ sudo apt-get install mesa-utils //provides several basic GL utilities. Ex: glxinfo, glxgears, etc.
+```
 ## Question 1
 Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color. <br>
 **Input** : 0.7 0.5 1.0 1.0 <br>
