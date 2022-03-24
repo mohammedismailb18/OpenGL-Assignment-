@@ -52,6 +52,14 @@
     sudo apt-get install mesa-utils 
     ```
 
+## Compilation and Running
+
+```
+g++ Q1.cpp -lglut -lGL -lGLEW -lGLU -o outputFile
+```
+```
+./outputFile
+```
 ## Question 1
 Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color. <br>
 **Input** : 0.7 0.5 1.0 1.0 <br>
