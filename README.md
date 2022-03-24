@@ -29,27 +29,27 @@
     ```
  - For determining which OpenGL extensions are supported on the platform.
     ```
-     sudo apt-get install libglew-dev 
+    sudo apt-get install libglew-dev 
     ```
   - GNU C++ compiler
     ```
-     sudo apt-get install g++ 
+    sudo apt-get install g++ 
     ```
   - mesa is an OpenGL compatible 3D graphics library.
     ```
-     sudo apt-get install mesa-common-dev 
+    sudo apt-get install mesa-common-dev 
     ```
   - All the packages needed to compile a debian package.
     ```
-     sudo apt-get install build-essential 
+    sudo apt-get install build-essential 
     ```
   - (glm) C++ mathematical library for graphics program.
     ```
-     sudo apt-get install libglew1.5-dev libglm-dev
+    sudo apt-get install libglew1.5-dev libglm-dev
     ```
   - provides several basic GL utilities. Ex: glxinfo, glxgears, etc.
     ```
-     sudo apt-get install mesa-utils 
+    sudo apt-get install mesa-utils 
     ```
 
 ## Question 1
