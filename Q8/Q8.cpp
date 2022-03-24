@@ -6,17 +6,6 @@
 using namespace std;
 int width = 500, height = 500;
 
-void mouseFun(int button, int state, int x, int y)
-{
-    if (button == GLUT_LEFT_BUTTON)    // Left Button Click
-    {
-        if(state == GLUT_UP)    // Button release
-        {
-            glFlush();
-        }
-    }
-}
-
 void drawLineSegmentFromOrigin(int x, int y) {
     float r = 0.0, g = 0.0, b = 0.0;
     x = x - width/2;
@@ -38,6 +27,7 @@ void drawLineSegmentFromOrigin(int x, int y) {
         glVertex2f(width/2, height/2);
         glVertex2f(x + width/2, height/2 - y);
     glEnd();
+    glFlush();
 }
 
 void renderFunction()
@@ -58,7 +48,6 @@ int main(int argc, char **argv)
     glutInitWindowSize(width, height);
     glutInitWindowPosition(100, 100);
     glutCreateWindow("Q4 - Window");
-    glutMouseFunc(mouseFun);
     glutMotionFunc(drawLineSegmentFromOrigin);
     glutDisplayFunc(renderFunction);
     glutMainLoop();
