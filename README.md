@@ -27,3 +27,13 @@ Write a program to generate a circle, which is colored on the boundary and the i
 
 <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q9/output_a.jpg" width = "500" height = "500"></p>
 
+### Part-B
+Is it possible to write a program to generate a circle whose boundary alone is red colored and the whole interior is colored in green? If so, write the program. If not, justify why you are not able to write the program, stating the limitation of OpenGL/ C++ which does not allow you to do that.
+
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q9/output_b.jpg" width = "500" height = "500"></p>
+
+### Part-C
+Is it possible to write a program to generate a circle whose boundary alone is red colored and the whole interior is colored in white initially and by the next mouse click, it is displayed in such a way that its color in the interior gets changed to green? If not, justify why you are not able to write the program, stating the limitation of OpenGL/ C++ which does not allow you to do that.
+
+
+
