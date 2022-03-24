@@ -125,5 +125,9 @@ Is it possible to write a program to generate a circle whose boundary alone is r
 ### Part-C
 Is it possible to write a program to generate a circle whose boundary alone is red colored and the whole interior is colored in white initially and by the next mouse click, it is displayed in such a way that its color in the interior gets changed to green? If not, justify why you are not able to write the program, stating the limitation of OpenGL/ C++ which does not allow you to do that.
 
+**Output**
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q9/output_c.gif" width = "500" height = "500"></p>
+
+
 
 
