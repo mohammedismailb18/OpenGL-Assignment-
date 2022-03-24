@@ -24,7 +24,7 @@ int main(int argc, char **argv)
     glutInitDisplayMode(GLUT_SINGLE);
     glutInitWindowSize(1000, 1000);
     glutInitWindowPosition(100, 100);
-    glutCreateWindow("Q7 - Window");
+    glutCreateWindow("Q9_a - Window");
     glutDisplayFunc(renderFunction);
     glutMainLoop();
     return 0;
