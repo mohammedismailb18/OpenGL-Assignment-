@@ -21,6 +21,69 @@ Note:- Ensure the points are visible. Manipulate point size if points are too sm
  
  <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q2/output.jpg" width = "500" height = "500"></p>
 
+## Question 3
+You manage a trekking site. There are N points of interest that need to be visited in order during the entire hike. The entire journey is very dangerous and hence you tie safety ropes between each pair of locations(in order). Rope is brown in color.<br><br>
+Example :- Say the locations to be visited are a,b,c,d,e in that order, then tie ropes between a & b, b & c, ...., d & e.<br><br>
+Write a program to read the coordinates of the points of interest given in the order in which they should be visited and draw the ropes between them. Make the background white in color.
+
+**Input**
+- 0.8 0.3
+- 0.0 0.0
+- 0.0 0.5
+- -0.5 0.5
+- 0.0 -0.5
+- -0.7 -0.5
+
+**Output**
+
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q3/output.jpg" width = "500" height = "500"></p>
+
+## Question 4
+Write a program in which you can make strokes by holding down the mouse left button, dragging and releasing. The path (stroke) traced out by the mouse pointer between the events of mouse's left button click and the eventual release of the left click needs to be plotted. There can be any number of strokes.<br><br>
+Using this concept write your name on the screen.<br>
+Note:- Make the background white and the strokes black in color.
+
+**Output**
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q4/output.jpg" width = "500" height = "500"></p>
+
+## Question 5
+You are given 3 rectangular strips whose vertex coordinates are as given below. Rectangle A (RED COLOR) (-0.5,0.6,-0.8),(-0.2,0.9,-0.8),(0.8,-0.1, 0.8), (0.5, -0.4, 0.8). Rectangle B (GREEN COLOR) (0.0, 0.8, 0.8),(0.3, 0.5, 0.8),(-0.7, -0.5, -0.8),(-1.0, -0.2, -0.8). Rectangle C (BLUE COLOR) (0.6, 0, -0.8),(0.6, -0.3, -0.8),(-0.9, -0.3, 0.8),(-0.9, 0, 0.8) Plot these strips on screen. Make the background black.<br><br>
+Remember in OpenGL -z axis goes into the screen, +z axis comes out of the screen.<br>
+Input file contains the coordinates of vertices of the rectangle one after the other.<br>
+
+**Input**
+
+-0.5 0.6 -0.8
+-0.2 0.9 -0.8
+0.8 -0.1 0.8
+0.5 -0.4 0.8
+0.0 0.8 0.8
+0.3 0.5 0.8
+-0.7 -0.5 -0.8
+-1.0 -0.2 -0.8
+0.6 0 -0.8
+0.6 -0.3 -0.8
+-0.9 -0.3 0.8
+-0.9 0 0.8
+
+**Output**
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q5/output.jpg" width = "500" height = "500"></p>
+
+## Question 6
+You are given the vertices of a polygon. Write a program to generate a geometric pattern, similar to the one given below(considering the pattern given below as an example), which reads as many vertices as a text file.
+
+**Input**
+0.4 0.96
+0.96 0.4
+0.96 -0.4
+0.4 -0.96
+-0.4 -0.96
+-0.96 -0.4
+-0.96 0.4
+-0.4 0.96
+
+**Output**
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q6/output.jpg" width = "500" height = "500"></p>
 
 ## Question 7
 Recreate the following figure by using only squares. The outermost square can be of any dimension, but should be entirely visible within the screen.<br>
