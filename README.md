@@ -53,18 +53,18 @@ Input file contains the coordinates of vertices of the rectangle one after the o
 
 **Input**
 
--0.5 0.6 -0.8
--0.2 0.9 -0.8
-0.8 -0.1 0.8
-0.5 -0.4 0.8
-0.0 0.8 0.8
-0.3 0.5 0.8
--0.7 -0.5 -0.8
--1.0 -0.2 -0.8
-0.6 0 -0.8
-0.6 -0.3 -0.8
--0.9 -0.3 0.8
--0.9 0 0.8
+- -0.5 0.6 -0.8
+- -0.2 0.9 -0.8
+- 0.8 -0.1 0.8
+- 0.5 -0.4 0.8
+- 0.0 0.8 0.8
+- 0.3 0.5 0.8
+- -0.7 -0.5 -0.8
+- -1.0 -0.2 -0.8
+- 0.6 0 -0.8
+- 0.6 -0.3 -0.8
+- -0.9 -0.3 0.8
+- -0.9 0 0.8
 
 **Output**
 <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q5/output.jpg" width = "500" height = "500"></p>
@@ -73,14 +73,14 @@ Input file contains the coordinates of vertices of the rectangle one after the o
 You are given the vertices of a polygon. Write a program to generate a geometric pattern, similar to the one given below(considering the pattern given below as an example), which reads as many vertices as a text file.
 
 **Input**
-0.4 0.96
-0.96 0.4
-0.96 -0.4
-0.4 -0.96
--0.4 -0.96
--0.96 -0.4
--0.96 0.4
--0.4 0.96
+- 0.4 0.96
+- 0.96 0.4
+- 0.96 -0.4
+- 0.4 -0.96
+- -0.4 -0.96
+- -0.96 -0.4
+- -0.96 0.4
+- -0.4 0.96
 
 **Output**
 <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q6/output.jpg" width = "500" height = "500"></p>
