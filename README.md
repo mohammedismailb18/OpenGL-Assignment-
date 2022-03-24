@@ -23,6 +23,14 @@
   ```
    sudo apt-get install binutils-gold
   ```
+ - Software tool for managing the build process of software.
+  ```
+  sudo apt-get install g++ cmake
+  ```
+ - For determining which OpenGL extensions are supported on the platform.
+  ```
+     sudo apt-get install libglew-dev 
+  ```
 
 
 
