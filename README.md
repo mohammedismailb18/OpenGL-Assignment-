@@ -1,5 +1,27 @@
 # OpenGL-Assignment-
 
+## Question 1
+Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color.
+**Input** : 0.7 0.5 1.0 1.0
+**Output**
+<p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q1/output.jpg" width = "500" height = "500"></p>
+
+## Question 2
+You are given the coordinates of water dispensaries/coolers in NITC. You are required to visit each dispensary and paint it in blue so others can spot them easily. Imagine your friend is on an airplane flying over NITC. Represent what is seen by your friend. (Make everything else white). <br>
+Coordinates are given in ‘input.txt’. <br>
+Note:- Ensure the points are visible. Manipulate point size if points are too small.
+**Input** : 
+  0.8 0.3
+  0.3 0.8
+  0.0 -0.7
+  -0.5 -0.5
+  0.2 -0.4
+  -0.7 0.9
+ **Output**
+ 
+ <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q2/output.jpg" width = "500" height = "500"></p>
+
+
 ## Question 7
 Recreate the following figure by using only squares. The outermost square can be of any dimension, but should be entirely visible within the screen.<br>
 Note:- Make the background white and the edges in black. <br>
