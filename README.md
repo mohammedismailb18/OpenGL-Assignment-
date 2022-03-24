@@ -10,6 +10,7 @@ Write a program to read RGBA values of a color from 'input.txt' and set the back
 You are given the coordinates of water dispensaries/coolers in NITC. You are required to visit each dispensary and paint it in blue so others can spot them easily. Imagine your friend is on an airplane flying over NITC. Represent what is seen by your friend. (Make everything else white). <br>
 Coordinates are given in ‘input.txt’. <br>
 Note:- Ensure the points are visible. Manipulate point size if points are too small.
+
 **Input** : 
 - 0.8 0.3
 - 0.3 0.8
