@@ -31,8 +31,26 @@
     ```
      sudo apt-get install libglew-dev 
     ```
-
-
+  - GNU C++ compiler
+    ```
+       sudo apt-get install g++ 
+    ```
+  - mesa is an OpenGL compatible 3D graphics library.
+    ```
+      sudo apt-get install mesa-common-dev 
+    ```
+  - All the packages needed to compile a debian package.
+    ```
+      sudo apt-get install build-essential 
+    ```
+  - (glm) C++ mathematical library for graphics program.
+    ```
+      sudo apt-get install libglew1.5-dev libglm-dev
+    ```
+  - provides several basic GL utilities. Ex: glxinfo, glxgears, etc.
+    ```
+      sudo apt-get install mesa-utils 
+    ```
 
 ## Question 1
 Write a program to read RGBA values of a color from 'input.txt' and set the background to this color.The input file contains space separated values of RED, GREEN, BLUE and ALPHA components of a color. <br>
