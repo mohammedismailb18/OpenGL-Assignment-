@@ -18,8 +18,8 @@ Note:- Ensure the points are visible. Manipulate point size if points are too sm
 - -0.5 -0.5
 - 0.2 -0.4
 - -0.7 0.9
- **Output**
  
+ **Output**
  <p align = "center"><img src = "https://github.com/mohammedismailb18/OpenGL-Assignment-/blob/main/Q2/output.jpg" width = "500" height = "500"></p>
 
 ## Question 3
